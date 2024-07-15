@@ -565,13 +565,13 @@ h3 {
 
 @media(max-width: 850px) {
     .navBar {
-        flex-direction: column;
+        flex-direction: row;
         align-items: flex-start;
         padding: 10px;
     }
 
     .navBar .pages ul {
-        flex-direction: column;
+        flex-direction: row;
         align-items: flex-start;
     }
 
